@@ -1,8 +1,8 @@
 # Laporan Praktikum
-|  | Pemrograman Berbasis Framework 2024 |
-| NIM | 2141720266 |
-| Nama | Alfan Marcel Mulyawan |
-| Kelas | TI-3A |
+|  | Pemrograman Berbasis Framework 2024 | <br>
+| NIM | 2141720266 | <br>
+| Nama | Alfan Marcel Mulyawan | <br>
+| Kelas | TI-3A | <br>
 
 ## Jawaban Soal 1
 

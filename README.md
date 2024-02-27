@@ -25,14 +25,14 @@ Deskripsi: React adalah perpustakaan JavaScript yang digunakan untuk membangun a
 
 Gatsby:
 
-![round](asset\05.jpeg)
-![round](asset\06.jpeg)
+![round](asset/05.jpeg)
+![round](asset/06.jpeg)
 Deskripsi: Gatsby adalah kerangka kerja statis yang menggunakan React untuk membangun situs web yang sangat cepat dan efisien. Fokus Utama: Gatsby dirancang untuk menghasilkan situs web statis dengan performa tinggi dengan menggunakan pre-rendering dan teknologi pengoptimalan lainnya. Keunggulan: Kecepatan, SEO yang lebih baik, dan kemampuan untuk mengintegrasikan sumber data dari berbagai sumber.
 
 
 Remix:
-![round](asset\03.jpeg)
-![round](asset\04.jpeg)
+![round](asset/03.jpeg)
+![round](asset/04.jpeg)
 Deskripsi: Remix adalah kerangka kerja yang dibangun di atas React untuk memfasilitasi pengembangan aplikasi web dengan performa tinggi dan pengalaman pengembangan yang lebih baik. Fokus Utama: Remix mengutamakan performa tinggi, pengelolaan state yang lebih baik, dan pengalaman pengembangan yang ramah. Keunggulan: Dukungan routing yang kuat, manajemen state yang canggih, dan fokus pada performa dan pengalaman pengembangan yang baik.
 ## Jawaban Soal 2
 
@@ -73,10 +73,10 @@ tailwind.config.ts: File ini berisi konfigurasi untuk Tailwind CSS, framework CS
 tsconfig.json: File ini berisi konfigurasi untuk TypeScript.
 ## Jawaban Soal 3
 
-![round](asset\01.png)
+![round](asset/01.png)
 ## Jawaban Soal 4
 Terdapat perubahan, karena saya mengisikan sebuah text berupa nama dan nim saya pada komponen MyTextNimName(), maka akan muncul nama dan nim saya apabila komponen MyTextNimName() dipanggil.
 ## Jawaban Soal 5
 Tidak ada perubahan tampilan, karena memanggil komponen Mypage() yang secara keseluruhan isinya sama persis dengan Home().
 ## Jawaban Soal 6
-![round](asset\02.png)
+![round](asset/02.png)
